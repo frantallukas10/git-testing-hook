@@ -1,6 +1,6 @@
 {
   "name": "test-hook",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Git pre-commit hook that just runs your tests.",
   "main": "index.js",
   "repository": "https://github.com/joseluis/test-hook",
