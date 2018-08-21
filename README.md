@@ -1,4 +1,4 @@
-# test-hook
+# git-testing-hook
 
 > Git pre-commit hook that just runs your tests. :green_apple:
 
@@ -7,18 +7,18 @@
 [Yarn](https://github.com/yarnpkg/)
 
 ```sh
-yarn add test-hook --dev
+yarn add git-testing-hook --dev
 ```
 
 [NPM](https://www.npmjs.com/)
 
 ```sh
-npm install test-hook --save-dev
+npm install git-testing-hook --save-dev
 ```
 
 ## Contributions
 
-Feel free to send some [Pull request](https://github.com/joseluisq/test-hook/pulls) or [issue](https://github.com/joseluisq/test-hook/issues).
+Feel free to send some [Pull request](https://github.com/joseluisq/git-testing-hook/pulls) or [issue](https://github.com/joseluisq/git-testing-hook/issues).
 
 ## License
 MIT license

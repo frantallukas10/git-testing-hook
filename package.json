@@ -1,13 +1,13 @@
 {
-  "name": "test-hook",
+  "name": "git-testing-hook",
   "version": "0.1.0",
   "description": "Git pre-commit hook that just runs your tests.",
   "main": "index.js",
-  "repository": "https://github.com/joseluis/test-hook",
+  "repository": "https://github.com/joseluis/git-testing-hook",
   "author": "José Quintana <https://git.io/joseluisq>",
   "license": "MIT",
   "bin": {
-    "test-hook": "./cli.js"
+    "git-testing-hook": "./cli.js"
   },
   "scripts": {
     "postinstall": "node ./cli.js"
