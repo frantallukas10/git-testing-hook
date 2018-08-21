@@ -12,7 +12,7 @@ validateRepository((err) => {
     return
   }
 
-  installHook(process.cwd() + '/.git/hooks/pre-commit')
+  installHook('../../.git/hooks/pre-commit')
 })
 
 function validateRepository(callback) {
