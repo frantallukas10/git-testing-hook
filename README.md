@@ -1,4 +1,4 @@
-# git-testing-hook
+# git-testing-hook [![npm](https://img.shields.io/npm/v/git-testing-hook.svg)](https://www.npmjs.com/package/git-testing-hook) [![npm](https://img.shields.io/npm/dt/git-testing-hook.svg)](https://www.npmjs.com/package/git-testing-hook) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 > Git pre-commit hook that just runs your tests. :green_apple:
 
