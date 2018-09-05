@@ -2,6 +2,8 @@
 
 > Git pre-commit hook that just runs your tests. :green_apple:
 
+![screen shot 2018-09-05 at 11 52 47](https://user-images.githubusercontent.com/1700322/45085984-5f328f00-b102-11e8-89e6-d7a03a755f35.png)
+
 ## Install
 
 [Yarn](https://github.com/yarnpkg/)
